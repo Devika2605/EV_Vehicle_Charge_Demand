@@ -52,4 +52,6 @@ EV_Vehicle_Charge_Demand/
 - Streamlit app allows selecting counties and viewing EV adoption projections
 
 ---
+<img width="642" height="762" alt="image" src="https://github.com/user-attachments/assets/de22239e-6a01-4533-a217-0a6138b66177" />
+
 <img width="647" height="848" alt="image" src="https://github.com/user-attachments/assets/c72746e0-851b-4d04-abc6-5902ae8da063" />
