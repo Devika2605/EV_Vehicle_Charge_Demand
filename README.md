@@ -35,10 +35,14 @@ The objective is to forecast electric vehicle (EV) adoption trends across counti
 ## 📁 Project Structure
 
 EV_Vehicle_Charge_Demand/
+
 ├── EV_Vehicle_Charging_Demand_Prediction.ipynb # Jupyter Notebook
+
 ├── app.py # Streamlit App
+
 ├── forecasting_ev_model.pkl # Trained model
-├── preprocessed_ev_data.csv # Cleaned dataset
+
+├── preprocessed_ev_data.csv # Cleaned dataset<br>
 ├── ev-car-factory.jpg # UI image
 
 ---
